@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+
+.logo {
+  width: 35px;
+  height: 35px;
+  border-radius: 30%;
+  margin-left: 20px;
+}
+
+.nav {
+  background-color: black;
+  display: flex;
+  align-items: center;
+
+  height: 87.996px;
+}
+
+.left_banner{
+    display: flex;
+
+}
+.nav_words  {
+  color: white;
+  font-size: 30px;
+  margin-left:12px;
+  align-items: center;
+  
+}
+
+.middle_banner a {
+    font-size: 22px;
+    color: white;
+    /* margin-left: 20px; */
+    
+}
+.nav_words {
+    display: flex;
+    justify-content: space-around;
+}
